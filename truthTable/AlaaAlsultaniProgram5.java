@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DaneWikstromProgram5
+public class AlaaAlsultaniProgram5
 {
    public static void main (String[] args)
    {
